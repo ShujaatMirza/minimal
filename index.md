@@ -32,7 +32,9 @@ I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. C
 I got a B.S. in Computer Science from New York University Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
 
 
-Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.
+<sub>Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.</sub>
+
+
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
