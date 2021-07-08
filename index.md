@@ -5,18 +5,20 @@ layout: default
 ### About Me
 * * *
 
-I am third year PhD candidate at NYU. 
+I am third year PhD candidate at NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net). At present, I have several ongoing threads of research, mainly focusing on data revocation on the web (_the right to be forgotten_), tracking over the web (_online anonymity_) and threat assessment of disinformation campaigns on the web (_authentic news_), using a combination of computational and behavioral social science methods. My primary applied interest is for 
 
-### News
+### Recent News
 * * * 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+June 2021: Assisted with the organization of ACM WiSec 2021 by acting as Publications Chair. \\
+May 2021: Presented our work on Facebook Longitudinal Privacy at USEC 2021. \\
+Nov 2020: Passed my PhD Depth Qualifying Exam! \\
+Sep 2020: Paper accepted at PETS 2021. “SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data”
 
 ### Publications
 * * * 
 
-* Theodor Schnitzler, **Shujaat Mirza**, Markus Dürmuth, and Christina Pöpper. _SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data_. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
+* Theodor Schnitzler$^{*}$, **Shujaat Mirza**$^{*}$, Markus Dürmuth, and Christina Pöpper. _SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data_. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
 * **Shujaat Mirza**, Christina Pöpper. _My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook_. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
