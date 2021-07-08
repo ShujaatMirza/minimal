@@ -16,11 +16,11 @@ I am third year PhD candidate at NYU.
 ### Publications
 * * * 
 
-* Theodor Schnitzler$^{*}$, Shujaat Mirza$^{*}$, Markus Dürmuth, and Christina Pöpper.SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
+* Theodor Schnitzler, **Shujaat Mirza**, Markus Dürmuth, and Christina Pöpper. _SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data_. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
-* Shujaat Mirza, Christina Pöpper. My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
+* **Shujaat Mirza**, Christina Pöpper. _My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook_. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
-* Ghous Amjad, Shujaat Mirza, Christina Pöpper. Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting. In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, USA, 2018.
+* Ghous Amjad, **Shujaat Mirza**, Christina Pöpper. _Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting_. In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, USA, 2018.
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
