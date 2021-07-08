@@ -7,8 +7,6 @@ layout: default
 
 I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. At present, I have several ongoing threads of research, mainly focusing on online data revocation, threat assessment of coordinated dis/mis-information operations on the web and tracking over the web, using a combination of quantitative and qualitative methods. My work bridges end user desires and technical systems, demonstrating the importance of that bridge in realizing privacy technologies, via solutions that rely on _applied cryptography_, and _machine learning_.
 
-Previously, I got a B.S. in Computer Science from New York University Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
-
 ### Recent News
 * * * 
 
@@ -17,7 +15,7 @@ Previously, I got a B.S. in Computer Science from New York University Abu Dhabi,
 <u>Nov’ 20</u>: Passed PhD Depth Qualifying Exam! \\
 <u>Sep’  20</u>: Our SoK paper accepted at [PETS 2021](https://sciendo.com/downloadpdf/journals/popets/2021/1/article-p229.pdf){:target="_blank"}.
 
-### Publications
+#### Publications
 * * * 
 
 * Theodor Schnitzler<sup>*</sup>, **Shujaat Mirza**<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. [SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://www.sciendo.com/article/10.2478/popets-2021-0013){:target="_blank"}. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
@@ -27,6 +25,12 @@ Previously, I got a B.S. in Computer Science from New York University Abu Dhabi,
 * Ghous Amjad, **Shujaat Mirza**, Christina Pöpper. [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}. In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, USA, 2018.
 
 > <sup> * </sup>: indicates equal contribution
+
+## Previously
+* * * 
+
+I got a B.S. in Computer Science from New York University Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
+
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
