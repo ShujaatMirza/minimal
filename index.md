@@ -10,10 +10,10 @@ I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. C
 ### Recent News
 * * * 
 
-June 2021: Assisted with the organization of [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/) by acting as Publications Chair. \\
-May 2021: Presented our work on Facebook Longitudinal Privacy at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/). \\
-Nov 2020: Passed my PhD Depth Qualifying Exam! \\
-Sep 2020: SoK paper accepted at PETS 2021. [SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://sciendo.com/downloadpdf/journals/popets/2021/1/article-p229.pdf)
+_June 2021_: Assisted with the organization of [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/) by acting as Publications Chair. \\
+_May 2021_: Presented our work on Facebook Longitudinal Privacy at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/). \\
+_Nov 2020_: Passed my PhD Depth Qualifying Exam! \\
+_Sep 2020_: SoK paper accepted at PETS 2021. [SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://sciendo.com/downloadpdf/journals/popets/2021/1/article-p229.pdf)
 
 ### Publications
 * * * 
@@ -24,7 +24,8 @@ Sep 2020: SoK paper accepted at PETS 2021. [SoK: Managing Longitudinal Privacy o
 
 * Ghous Amjad, **Shujaat Mirza**, Christina Pöpper. _Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting_. In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, USA, 2018.
 
-(<sup>^</sup>: indicates equal contribution)
+(<sup> ^ </sup>: indicates equal contribution)
+
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
