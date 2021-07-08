@@ -10,7 +10,7 @@ I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. C
 #### Recent News
 * * * 
 
-<u>June’ 21</u>: Assisted with the organization of [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"} by acting as Publications Chair. \\
+<u>June’ 21</u>: Assisted with the organization of [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"} by acting as a Publication Chair. \\
 <u>May’ 21</u>: Presented our work on Facebook Longitudinal Privacy at [USEC’21](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}. \\
 <u>Nov’ 20</u>: Passed PhD Depth Qualifying Exam! \\
 <u>Sep’  20</u>: Our SoK paper accepted at [PETS 2021](https://sciendo.com/downloadpdf/journals/popets/2021/1/article-p229.pdf){:target="_blank"}.
@@ -32,6 +32,7 @@ I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. C
 I got a B.S. in Computer Science from New York University Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
 
 
+Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
