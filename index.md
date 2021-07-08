@@ -5,13 +5,13 @@ layout: default
 #### About Me
 * * *
 
-I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. At present, I have several ongoing threads of research, mainly focusing on online data revocation, threat assessment of coordinated dis/mis-information operations on the web and tracking over the web, using a combination of quantitative and qualitative methods. My work bridges end user desires and technical systems, demonstrating the importance of that bridge in realizing privacy technologies, via solutions that rely on _applied cryptography_, and _machine learning_.
+I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. At present, I have several threads of research, mainly focusing on online data revocation, threat assessment of coordinated dis/mis-information operations on the web and browser fingerprinting, using a combination of quantitative and qualitative methods. My work bridges end user desires and technical systems, demonstrating the importance of that bridge in realizing privacy technologies, via solutions that rely on _applied cryptography_, and _machine learning_.
 
 #### Recent News
 * * * 
 
 <u>June’ 21</u>: Assisted with the organization of [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"} by acting as a Publication Chair. \\
-<u>May’ 21</u>: Presented our work on Facebook Longitudinal Privacy at [USEC’21](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}. \\
+<u>May’ 21</u>: Presented our work on Facebook Longitudinal Privacy at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}. \\
 <u>Nov’ 20</u>: Passed PhD Depth Qualifying Exam! \\
 <u>Sep’  20</u>: Our SoK paper accepted at [PETS 2021](https://sciendo.com/downloadpdf/journals/popets/2021/1/article-p229.pdf){:target="_blank"}.
 
