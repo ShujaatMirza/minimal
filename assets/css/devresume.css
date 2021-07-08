@@ -84,7 +84,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: rgba(28, 28, 28, 0.8);
-  text-align: left;
+  text-align: justify;
   background-color: #fff;
 }
 
@@ -176,14 +176,14 @@ sup {
 }
 
 a {
-  /* color: #267CB9; */
-  color: #67B244;
+  color: #267CB9;
+  /* color: #67B244; */
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #477b2f;
-  /* color: #0e73bc; */
+  /* color: #477b2f; */
+  color: #0e73bc;
   text-decoration: none;
 }
 
