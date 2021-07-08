@@ -2,6 +2,19 @@
 layout: default
 ---
 
+About Me
+* * *
+
+I am third year PhD candidate at NYU. 
+
+News
+* * * 
+
+
+Publications
+* * * 
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
