@@ -2,12 +2,12 @@
 layout: default
 ---
 
-### About Me
+#### About Me
 * * *
 
 I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. At present, I have several ongoing threads of research, mainly focusing on online data revocation, threat assessment of coordinated dis/mis-information operations on the web and tracking over the web, using a combination of quantitative and qualitative methods. My work bridges end user desires and technical systems, demonstrating the importance of that bridge in realizing privacy technologies, via solutions that rely on _applied cryptography_, and _machine learning_.
 
-### Recent News
+#### Recent News
 * * * 
 
 <u>June’ 21</u>: Assisted with the organization of [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"} by acting as Publications Chair. \\
@@ -26,7 +26,7 @@ I am a third year PhD candidate at NYU. I am fortunate to be advised by [Prof. C
 
 > <sup> * </sup>: indicates equal contribution
 
-## Previously
+#### Previously
 * * * 
 
 I got a B.S. in Computer Science from New York University Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
