@@ -2,22 +2,24 @@
 layout: default
 ---
 
-## About Me
+### About Me
 * * *
 
 I am third year PhD candidate at NYU. 
 
-## News
+### News
 * * * 
 
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-## Publications
+### Publications
 * * * 
 
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
- -->
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -135,3 +137,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+ -->
