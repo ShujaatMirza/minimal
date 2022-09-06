@@ -11,22 +11,13 @@ I am a PhD candidate in Computer Science at the Courant Institue, NYU. I am fort
 ##### Recent News
 * * * 
 <u>August 22</u>: Our paper on modeling disinfomation & its mitigation accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
-
 <u>Summer 22</u>: Started working as Research Scientist at [Spotify Research](https://research.atspotify.com/){:target="_blank"}. \\
-
 <u>Spring 22</u>: Taught recitation/lab sections of Introduction to Computer Science  [course](https://){:target="_blank"}. \\
-
 <u>Fall 21</u>: Delivered guest lectures on Network Flows for Algorithms[course](https://){:target="_blank"}. \\
-
 <u>July 21</u>: Happy to be a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}. \\
-
 <u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium [Video](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. \\
-
 <u>May 21</u>: Presented our work on Facebook Longitudinal Privacy at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}. \\
-
-<u>Nov 20</u>: Passed my Depth Qualifying Exam with committee members Joseph Bonneau, Rachel Greenstadt and Christina Pöpper.  \\
-
-<u>Sep 20</u>: Our SoK paper accepted at [PETS 2021](https://sciendo.com/downloadpdf/journals/popets/2021/1/article-p229.pdf){:target="_blank"}.
+<u>Fall 20</u>: Passed my Depth Qualifying Exam with committee members Joseph Bonneau, Rachel Greenstadt and Christina Pöpper.  \\
 
 #### Publications
 * * * 
