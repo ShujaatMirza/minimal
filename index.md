@@ -5,16 +5,13 @@ layout: default
 ###### About Me
 * * *
 
-I am a PhD candidate in Computer Science at the Courant Institue, NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. In my research, I develop novel methods to mitigate online malicious activity and make the Internet a private and safe place. 
-
-
-My work bridges end user desires and technical systems to realize privacy technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
+I am a PhD candidate in Computer Science at the Courant Institue, NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. In my research, I develop novel methods to mitigate online malicious activity and make the Internet a private and safe place. My work bridges end user desires and technical systems to realize privacy enhancing technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
 
 
 ##### Recent News
 * * * 
 <u>August 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
-<u>Summer 22</u>: This summer, I will be joining [Spotify](https://research.atspotify.com/){:target="_blank"} as a Research Scientist to work with Content Platform Research and Tech Research teams. \\
+<u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
 <u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science undergraduate course. \\
 <u>January 22</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2022.\\
 <u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course. \\
