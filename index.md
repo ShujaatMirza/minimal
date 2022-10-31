@@ -5,24 +5,34 @@ layout: default
 ###### About Me
 * * *
 
-I am a PhD candidate in Computer Science at the Courant Institue, NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. In my research, I develop novel methods to mitigate online malicious activity and make the Internet a private and safer place. My work bridges end user desires and technical systems to realize privacy technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
+I am a PhD candidate in Computer Science at the Courant Institue, NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. In my research, I develop novel methods to mitigate online malicious activity and make the Internet a private and safe place. 
+
+
+My work bridges end user desires and technical systems to realize privacy technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
 
 
 ##### Recent News
 * * * 
-<u>August 22</u>: Our paper on modeling disinfomation & its mitigation accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
-<u>Summer 22</u>: Started working as Research Scientist at [Spotify Research](https://research.atspotify.com/){:target="_blank"}. \\
-<u>Spring 22</u>: Taught recitation/lab sections of Introduction to Computer Science  [course](https://){:target="_blank"}. \\
-<u>Fall 21</u>: Delivered guest lectures on Network Flows for Algorithms [course](https://){:target="_blank"}. \\
+<u>August 22</u>: Our paper on threat modeling of disinfomation has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
+<u>May 22</u>: This summer, I will be joining [Spotify](https://research.atspotify.com/){:target="_blank"} as a Research Scientist. \\
+<u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science course. \\
+<u>January 22</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2022.\\
+<u>Fall 21</u>: Delivered three guest lectures on the topics of Network Flows for Algorithms course. \\
 <u>July 21</u>: Happy to be a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}. \\
-<u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium [Video](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. \\
-<u>May 21</u>: Presented our work on Facebook Longitudinal Privacy at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}. \\
+<u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium. Video of the talk can be found [here](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. \\
+<u>May 21</u>: Delivered a talk on our work about Longitudinal Privacy on Facebook at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}.
+
+<!--
+ \\
 <u>Fall 20</u>: Passed my Depth Qualifying Exam with committee members Joseph Bonneau, Rachel Greenstadt and Christina Pöpper. 
+-->
 
 #### Publications
 * * * 
 
-* **Shujaat Mirza**, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_modeling.pdf){:target="_blank"}. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
+* [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_modeling.pdf){:target="_blank"}.\\
+**Shujaat Mirza**, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. \\
+ In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
 
 * Theodor Schnitzler<sup>*</sup>, **Shujaat Mirza**<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. [SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
