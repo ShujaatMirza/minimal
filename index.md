@@ -13,11 +13,11 @@ My work bridges end user desires and technical systems to realize privacy techno
 
 ##### Recent News
 * * * 
-<u>August 22</u>: Our paper on threat modeling of disinfomation has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
-<u>May 22</u>: This summer, I will be joining [Spotify](https://research.atspotify.com/){:target="_blank"} as a Research Scientist. \\
-<u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science course. \\
+<u>August 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
+<u>Summer 22</u>: This summer, I will be joining [Spotify](https://research.atspotify.com/){:target="_blank"} as a Research Scientist. \\
+<u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science undergraduate course. \\
 <u>January 22</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2022.\\
-<u>Fall 21</u>: Delivered three guest lectures on the topics of Network Flows for Algorithms course. \\
+<u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course. \\
 <u>July 21</u>: Happy to be a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}. \\
 <u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium. Video of the talk can be found [here](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. \\
 <u>May 21</u>: Delivered a talk on our work about Longitudinal Privacy on Facebook at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}.
@@ -31,14 +31,13 @@ My work bridges end user desires and technical systems to realize privacy techno
 * * * 
 
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_modeling.pdf){:target="_blank"}.\\
-**Shujaat Mirza**, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. \\
- In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
+**Shujaat Mirza**, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
 
-* Theodor Schnitzler<sup>*</sup>, **Shujaat Mirza**<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. [SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
+* [SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\Theodor Schnitzler<sup>*</sup>, **Shujaat Mirza**<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
-* **Shujaat Mirza**, and Christina Pöpper. [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
+* [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\ **Shujaat Mirza**, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
-* Ghous Amjad, **Shujaat Mirza**, and Christina Pöpper. [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}. In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, USA, 2018.
+* [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\ Ghous Amjad, **Shujaat Mirza**, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, USA, 2018.
 
 > <sup> * </sup>: indicates equal contribution
 
