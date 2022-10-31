@@ -33,10 +33,10 @@ I am a PhD candidate in Computer Science at the Courant Institue, NYU. I am fort
 * [Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\
 Theodor Schnitzler<sup>*</sup>, **Shujaat Mirza**<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
-* [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\ 
+* [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\
 **Shujaat Mirza**, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
-* [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\ 
+* [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\
 Ghous Amjad, **Shujaat Mirza**, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, US, 2018.
 
 > <sup> * </sup>: indicates equal contribution
