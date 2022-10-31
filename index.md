@@ -14,7 +14,7 @@ My work bridges end user desires and technical systems to realize privacy techno
 ##### Recent News
 * * * 
 <u>August 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
-<u>Summer 22</u>: This summer, I will be joining [Spotify](https://research.atspotify.com/){:target="_blank"} as a Research Scientist. \\
+<u>Summer 22</u>: This summer, I will be joining [Spotify](https://research.atspotify.com/){:target="_blank"} as a Research Scientist to work with Content Platform Research and Tech Research teams. \\
 <u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science undergraduate course. \\
 <u>January 22</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2022.\\
 <u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course. \\
@@ -33,11 +33,14 @@ My work bridges end user desires and technical systems to realize privacy techno
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_modeling.pdf){:target="_blank"}.\\
 **Shujaat Mirza**, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
 
-* [SoK: Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\Theodor Schnitzler<sup>*</sup>, **Shujaat Mirza**<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
+* [Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\
+Theodor Schnitzler<sup>*</sup>, **Shujaat Mirza**<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
-* [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\ **Shujaat Mirza**, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
+* [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.
+\\ **Shujaat Mirza**, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
-* [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\ Ghous Amjad, **Shujaat Mirza**, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, USA, 2018.
+* [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.
+\\ Ghous Amjad, **Shujaat Mirza**, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, US, 2018.
 
 > <sup> * </sup>: indicates equal contribution
 
