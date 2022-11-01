@@ -27,7 +27,7 @@ I am a PhD candidate in Computer Science at the Courant Institue, NYU. I am fort
 #### Publications
 * * * 
 
-* [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_modeling.pdf){:target="_blank"}.\\
+* [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
 **Shujaat Mirza**, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
 
 * [Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\
