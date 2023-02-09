@@ -5,11 +5,13 @@ layout: default
 ###### About Me
 * * *
 
-I am a PhD candidate in Computer Science at the Courant Institue, NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. In my research, I develop novel methods to mitigate online malicious activity and make the Internet a private and safe place. My work bridges end user desires and technical systems to realize privacy enhancing technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
+I am a PhD candidate in Computer Science at the Courant Institute, NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. In my research, I develop novel methods to mitigate online malicious activity and make the Internet a private and safe place. My work bridges end user desires and technical systems to realize privacy enhancing technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
 
 
 ##### Recent News
 * * * 
+<u>November 22</u>: Delivered a guest lecture for Cyberwarfare course taught by Professor [Michail Maniatakos] (https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. Thanks for having me! \\
+<u>October 22</u>: Spoke at the CCSAD Cybersecurity Seminar. \\
 <u>August 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
 <u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science undergraduate course. \\
