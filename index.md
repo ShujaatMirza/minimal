@@ -5,7 +5,7 @@ layout: default
 ###### About Me
 * * *
 
-I am a PhD candidate in Computer Science at the Courant Institute, NYU. I am fortunate to be advised by [Prof. Christina Pöpper](http://poepper.net){:target="_blank"}. In my research, I develop novel methods to mitigate online malicious activity and make the Internet a private and safe place. My work bridges end user desires and technical systems to realize privacy enhancing technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
+I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortunate to be advised by [Professor Christina Pöpper](http://poepper.net){:target="_blank”} and supported by Global PhD Fellowship. In my research, I focus on better understanding and developing techniques to mitigate different forms of online abuse. Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, characterizing threats of disinformation operations, and securing users’ right to be forgotten in their online activity. My work aims to realize privacy enhancing technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
 
 
 ##### Recent News
