@@ -10,12 +10,12 @@ I am a PhD candidate in Computer Science at the Courant Institute, NYU. I am for
 
 ##### Recent News
 * * * 
+<u>January 23</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2022.\\
 <u>November 22</u>: Delivered a guest lecture for Cyberwarfare course taught by Professor [Michail Maniatakos] (https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. Thanks for having me! \\
 <u>October 22</u>: Spoke at the CCSAD Cybersecurity Seminar. \\
 <u>August 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
 <u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science undergraduate course. \\
-<u>January 22</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2022.\\
 <u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course. \\
 <u>July 21</u>: Happy to be a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}. \\
 <u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium. Video of the talk can be found [here](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. \\
