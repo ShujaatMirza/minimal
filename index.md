@@ -10,17 +10,19 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 
 ##### Recent News
 * * * 
-<u>January 23</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2023.\\
+<u>February 23</u>: Happy to take on the Publication Chair role for 22nd International Conference on Applied Cryptography & Network Security (ACNS) 2024. Webpage to follow. \\
+<u>January 23</u>: Serving in the Program Committee for [SecWeb Workshop 2023](https://secweb.work/2023.html). Consider submitting you work there! \\
 <u>November 22</u>: Delivered a guest lecture for Cyberwarfare course taught by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. Thanks for having me! \\
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
 <u>August 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
 <u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science undergraduate course. \\
 <u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course. \\
-<u>July 21</u>: Happy to be a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}. \\
+<u>July 21</u>: Served as a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}. \\
 <u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium. Video of the talk can be found [here](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. 
 
 <!--
+<u>January 23</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2023.\\
 \\
 <u>May 21</u>: Delivered a talk on our work about Longitudinal Privacy on Facebook at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}.
  \\
