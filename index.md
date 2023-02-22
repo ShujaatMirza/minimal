@@ -10,9 +10,10 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 
 ##### Recent News
 * * * 
-<u>February 23</u>: Happy to take on the Publication Chair role for 22nd International Conference on Applied Cryptography & Network Security (ACNS) 2024. Webpage to follow. \\
+<u>February 23</u>: Invited to speak at Microsoft Research Colloquium Series. Thanks for having me! \\
+<u>February 23</u>: Happy to be the Publication Chair for 22nd International Conference on Applied Cryptography & Network Security (ACNS) 2024. \\
 <u>January 23</u>: Serving in the Program Committee for [SecWeb Workshop 2023](https://secweb.work/2023.html). Consider submitting you work there! \\
-<u>November 22</u>: Delivered a guest lecture for Cyberwarfare course taught by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. Thanks for having me! \\
+<u>November 22</u>: Taught a guest lecture for Cyberwarfare course taught by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. \\
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
 <u>August 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
