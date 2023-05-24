@@ -37,11 +37,11 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 #### Publications
 * * * 
 ##### In Review/ Preparation
-* Privacy Leakage from Code Generation Language Models.\\
+* [Privacy Leakage from Code Generation Language Models]().\\
 Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In Review, 2023.
-* Trustworthy and Secure Text Generation from Large Language Models.\\
+* [Trustworthy and Secure Text Generation from Large Language Models]().\\
 *Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
-* Browser Extension Fingerprinting for Mobile Devices.\\
+* [Browser Extension Fingerprinting for Mobile Devices]().\\
 Brian Kim, *Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
 
 
