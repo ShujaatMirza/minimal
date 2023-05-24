@@ -10,10 +10,10 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 
 ##### Recent News
 * * * 
-<u>March 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io).\\
+<u>March 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
 <u>February 23</u>: Invited to speak at Microsoft Research (MSR) Colloquium Series. Thanks for having me! \\
-<u>February 23</u>: Happy to be the Publication Chair for 22nd Conference on Applied Cryptography & Network Security (ACNS) 2024. \\
-<u>January 23</u>: Serving in the Program Committee for [SecWeb Workshop 2023](https://secweb.work/2023.html). Consider submitting you work there! \\
+<u>February 23</u>: Happy to be the Publication Chair for 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. Consider submitting your work there! \\
+<u>January 23</u>: Serving in the Program Committee for [SecWeb Workshop 2023](https://secweb.work/2023.html){:target="_blank"}.\\
 <u>November 22</u>: Taught a guest lecture for Cyberwarfare course offered by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. \\
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
