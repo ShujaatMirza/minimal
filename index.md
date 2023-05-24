@@ -38,26 +38,26 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 * * * 
 ##### In Review/ Preparation
 * Privacy Leakage from Code Generation Language Models.\\
-Liang Niu, **Shujaat Mirza**, Zayd Maradni and Christina Pöpper. In Review, 2023.
+Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In Review, 2023.
 * Trustworthy and Secure Text Generation from Large Language Models.\\
-**Shujaat Mirza** and Christina Pöpper. In Preparation, 2023.
+*Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
 * Browser Extension Fingerprinting for Mobile Devices.\\
-Brian Kim, **Shujaat Mirza** and Christina Pöpper. In Preparation, 2023.
+Brian Kim, *Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
 
 
 ##### Peer Reviewed
 
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
-**Shujaat Mirza**, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
+*Shujaat Mirza*, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
 
 * [Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\
-**Shujaat Mirza**<sup>*</sup>, Theodor Schnitzler<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
+*Shujaat Mirza*<sup>*</sup>, Theodor Schnitzler<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
 * [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\
-**Shujaat Mirza**, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
+*Shujaat Mirza*, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
 * [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\
-Ghous Amjad, **Shujaat Mirza**, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, US, 2018.
+Ghous Amjad, *Shujaat Mirza*, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, US, 2018.
 
 > <sup> * </sup>: indicates equal contribution
 
