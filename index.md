@@ -13,7 +13,7 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 <u>March 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
 <u>February 23</u>: Invited to speak at Microsoft Research (MSR) Colloquium Series. Thanks for having me! \\
 <u>February 23</u>: Happy to be the Publication Chair for 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. \\
-<u>January 23</u>: Served in the Program Committee for [SecWeb Workshop](https://secweb.work/2023.html){:target="_blank"}.\\
+<u>January 23</u>: Served in the Program Committee for [SecWeb](https://secweb.work/2023.html){:target="_blank"} Workshop.\\
 <u>November 22</u>: Taught a guest lecture for Cyberwarfare course offered by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. \\
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
@@ -36,12 +36,22 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 
 #### Publications
 * * * 
+##### In Review/ Preparation
+* Privacy Leakage from Code Generation Language Models.\\
+Liang Niu, **Shujaat Mirza**, Zayd Maradni and Christina Pöpper. In Review, 2023.
+* Trustworthy and Secure Text Generation from Large Language Models.\\
+**Shujaat Mirza** and Christina Pöpper. In Preparation, 2023.
+* Browser Extension Fingerprinting for Mobile Devices.\\
+Brian Kim, **Shujaat Mirza** and Christina Pöpper. In Preparation, 2023.
+
+
+##### Peer Reviewed
 
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
 **Shujaat Mirza**, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
 
 * [Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\
-Theodor Schnitzler<sup>*</sup>, **Shujaat Mirza**<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
+**Shujaat Mirza**<sup>*</sup>, Theodor Schnitzler<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
 * [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\
 **Shujaat Mirza**, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
