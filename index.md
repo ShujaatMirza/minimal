@@ -5,8 +5,7 @@ layout: default
 ##### About Me
 * * *
 
-In my research, I focus on better understanding and developing techniques to realize AI safety and privacy enhancing technologies. I am honored to be a recipient of Global PhD Fellowship and to have the guidance of Professor [Christina Pöpper](http://poepper.net){:target="_blank”}. 
-
+In my research, I focus on better understanding and developing techniques to realize AI safety and privacy enhancing technologies. I am honored to be a recipient of Global PhD Fellowship. I will soon defend my PhD under the supervision of [Christina Pöpper](http://poepper.net){:target="_blank”}.
 
 Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, characterizing threats of disinformation operations, and securing users’ right to be forgotten in their online activity. My work employs a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
 
