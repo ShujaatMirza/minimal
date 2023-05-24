@@ -13,15 +13,17 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 <u>March 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
 <u>February 23</u>: Invited to speak at Microsoft Research (MSR) Colloquium Series. Thanks for having me! \\
 <u>February 23</u>: Happy to be the Publication Chair for 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. Consider submitting your work there! \\
-<u>January 23</u>: Serving in the Program Committee for [SecWeb Workshop 2023](https://secweb.work/2023.html){:target="_blank"}.\\
+<u>January 23</u>: Serving in the Program Committee for [SecWeb Workshop](https://secweb.work/2023.html){:target="_blank"}.\\
 <u>November 22</u>: Taught a guest lecture for Cyberwarfare course offered by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. \\
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
 <u>Summer 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}. \\
-<u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course. \\
+<u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course at NYU. \\
 <u>July 21</u>: Served as a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}. \\
-<u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium. Video of the talk can be found [here](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. 
 
+<!--
+<u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium. Video of the talk can be found [here](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. 
+-->
 <!--
 <u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science undergraduate course. \\
 
