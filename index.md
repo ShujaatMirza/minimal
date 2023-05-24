@@ -2,13 +2,16 @@
 layout: default
 ---
 
-###### About Me
+##### About Me
 * * *
 
-I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortunate to be advised by [Professor Christina Pöpper](http://poepper.net){:target="_blank”} and supported by Global PhD Fellowship. In my research, I focus on better understanding and developing techniques to mitigate different forms of online abuse. Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, characterizing threats of disinformation operations, and securing users’ right to be forgotten in their online activity. My work aims to realize privacy enhancing technologies utilizing a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
+I am a recipient of Global PhD Fellowship and advised by [Professor Christina Pöpper](http://poepper.net){:target="_blank”}. In my research, I focus on better understanding and developing techniques to realize AI safety and privacy enhancing technologies. 
 
 
-###### Recent News
+Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, characterizing threats of disinformation operations, and securing users’ right to be forgotten in their online activity. My work employs a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
+
+
+##### Recent News
 * * * 
 <u>March 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
 <u>February 23</u>: Invited to speak at Microsoft Research (MSR) Colloquium Series. Thanks for having me! \\
@@ -34,7 +37,7 @@ I am a PhD candidate in Computer Science at Courant Institute, NYU. I am fortuna
 <u>Fall 20</u>: Passed my Depth Qualifying Exam with committee members Joseph Bonneau, Rachel Greenstadt and Christina Pöpper. 
 -->
 
-###### Publications
+##### Publications
 * * * 
 ###### In Review/ Preparation
 * [Privacy Leakage from Code Generation Language Models]().\\
@@ -61,7 +64,7 @@ Ghous Amjad, *Shujaat Mirza*, and Christina Pöpper.  In ACM Conference on Data 
 
 > <sup> * </sup>: indicates equal contribution
 
-###### Previously
+##### Previously
 * * * 
 
 I got a B.S. in Computer Science from NYU Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
