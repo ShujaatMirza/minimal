@@ -39,9 +39,10 @@ Some of my recent research includes: designing training data extraction attacks 
 
 ##### Publications
 * * * 
+
+<!--
 ###### In Review/ Preparation
-* [Privacy Leakage from Code Generation Language Models]().\\
-Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In Review, 2023.
+
 * [Trustworthy and Secure Text Generation from Large Language Models]().\\
 *Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
 * [Browser Extension Fingerprinting for Mobile Devices]().\\
@@ -49,6 +50,9 @@ Brian Kim, *Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
 
 
 ###### Peer Reviewed
+-->
+* [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot]().\\
+Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Security Symposium, Anaheim, US, 2023.
 
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
 *Shujaat Mirza*, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
