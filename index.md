@@ -12,7 +12,7 @@ Some of my recent research includes: designing training data extraction attacks 
 
 ##### Recent News
 * * * 
-<u>June 23</u>: Our paper on code generation langauge models has been accepted at [Usenix 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}. See you in Anaheim!
+<u>June 23</u>: Our paper on code generation langauge models has been accepted at [Usenix 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}. See you in Anaheim!\\
 <u>February 23</u>: Invited to speak at [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series. Thanks for having me! \\
 <u>February 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
 <u>January 23</u>: Happy to be the Publication Chair for 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. \\
@@ -20,9 +20,10 @@ Some of my recent research includes: designing training data extraction attacks 
 <u>November 22</u>: Taught a guest lecture for Cyberwarfare course offered by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. \\
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
-<u>Summer 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}.
+
 
 <!--
+<u>Summer 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}.
 <u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course at NYU. \\
 <u>July 21</u>: Served as a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}.
 
