@@ -51,7 +51,7 @@ Brian Kim, *Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
 
 ###### Peer Reviewed
 -->
-* [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot]().\\
+* [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf).\\
 Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Security Symposium, Anaheim, US, 2023.
 
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
