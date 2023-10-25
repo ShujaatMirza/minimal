@@ -12,8 +12,8 @@ Some of my recent research includes: designing training data extraction attacks 
 
 ##### Recent News
 * * * 
-<u>September 23</u>: Our paper on mobile browser extension fingerprinting has been accepted at [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. See you in Copenhagen!\\
-<u>June 23</u>: Our paper on code generation langauge models has been accepted at [Usenix 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}. See you in Anaheim!\\
+<u>September 23</u>: Our work on mobile browser extension fingerprinting will be presented at [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. See you in Copenhagen!\\
+<u>August 23</u>: Presented our research on code generation large langauge models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.\\
 <u>February 23</u>: Invited to speak at [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series. Thanks for having me! \\
 <u>February 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
 <u>January 23</u>: Happy to be the Publication Chair for 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. \\
@@ -46,8 +46,8 @@ Some of my recent research includes: designing training data extraction attacks 
 <!--
 ###### In Review/ Preparation
 
-* [Trustworthy and Secure Text Generation from Large Language Models]().\\
-*Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
+* [Trustworthiness of LLMs in Fact-Checking: Stability & Factuality of GPT Models]().\\
+*Shujaat Mirza*, Bruno Gomes Coelho, Yuyuan Cui, Christina Poepper, and Damon McCoy. In Submission, 2023.
 
 
 ###### Peer Reviewed
@@ -55,6 +55,9 @@ Some of my recent research includes: designing training data extraction attacks 
 
 * [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}.\\
 Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Security Symposium, Anaheim, US, 2023.
+
+* [Trustworthiness of LLMs in Fact-Checking: Stability & Factuality of GPT Models]().\\
+*Shujaat Mirza*, Bruno Gomes Coelho, Yuyuan Cui, Christina Poepper, and Damon McCoy. In Submission, 2023.
 
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
 *Shujaat Mirza*, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
