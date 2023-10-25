@@ -12,6 +12,7 @@ Some of my recent research includes: designing training data extraction attacks 
 
 ##### Recent News
 * * * 
+<u>September 23</u>: Our paper on mobile browser extension fingerprinting has been accepted at [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. See you in Copenhagen!\\
 <u>June 23</u>: Our paper on code generation langauge models has been accepted at [Usenix 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}. See you in Anaheim!\\
 <u>February 23</u>: Invited to speak at [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series. Thanks for having me! \\
 <u>February 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
@@ -47,17 +48,19 @@ Some of my recent research includes: designing training data extraction attacks 
 
 * [Trustworthy and Secure Text Generation from Large Language Models]().\\
 *Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
-* [Browser Extension Fingerprinting for Mobile Devices]().\\
-Brian Kim, *Shujaat Mirza* and Christina Pöpper. In Preparation, 2023.
 
 
 ###### Peer Reviewed
 -->
+
 * [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}.\\
 Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Security Symposium, Anaheim, US, 2023.
 
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
 *Shujaat Mirza*, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
+
+* [Extending Browser Extension Fingerprinting to Mobile Devices](papers/wpes23.pdf){:target="_blank"}.\\
+Brian Hyeongseok Kim, *Shujaat Mirza*, and Christina Pöpper. In the 22nd Workshop on Privacy in the Electronic Society (WPES; co-located with ACM CCS), Copenhagen, Denmark, 2023.
 
 * [Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\
 *Shujaat Mirza*<sup>*</sup>, Theodor Schnitzler<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
