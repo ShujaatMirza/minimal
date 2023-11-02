@@ -40,7 +40,7 @@ Some of my recent research includes: designing training data extraction attacks 
 <u>Fall 20</u>: Passed my Depth Qualifying Exam with committee members Joseph Bonneau, Rachel Greenstadt and Christina Pöpper. 
 -->
 
-##### Publications
+##### Select Publications
 * * * 
 
 <!--
@@ -52,6 +52,12 @@ Some of my recent research includes: designing training data extraction attacks 
 
 ###### Peer Reviewed
 -->
+
+* [How Fair are Medical Imaging Foundation Models?](){:target="_blank"}.\\
+Muhammad Osama Khan, Muhammad Muneeb Afzal, *Shujaat Mirza*, Yi Fang. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
+
+* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation](){:target="_blank"}.\\
+Muhammad Muneeb Afzal, Muhammad Osama Khan, *Shujaat Mirza*. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
 
 * [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}.\\
 Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Security Symposium, Anaheim, US, 2023.
