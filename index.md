@@ -7,15 +7,16 @@ layout: default
 
 In my research, I focus on better understanding and developing techniques to realize AI safety and privacy enhancing technologies. I am honored to be a recipient of Global PhD Fellowship. I will soon defend my PhD under the supervision of [Christina Pöpper](http://poepper.net){:target="_blank”}.
 
-Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, characterizing threats of disinformation operations, and securing users’ right to be forgotten in their online activity. My work employs a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
+Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, evaluating fairness of foundation models for medical imaging, and and securing users’ right to be forgotten in their online activity.
 
+<!--
+My work employs a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
+-->
 
 ##### Recent News
 * * * 
 <u>October 23</u>: Exciting news! Our works on enhancing health equity of Medical Imaging Foundation Models and Kidney Tumor Segmentation have been selected for presentation at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference. See you in New Orleans!\\
-
 <u>September 23</u>: Our work on mobile browser extension fingerprinting will be presented at [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. See you in Copenhagen!\\
-
 <u>August 23</u>: Presented our research on code generation large langauge models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.\\
 <u>February 23</u>: Invited to speak at [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series. Thanks for having me! \\
 <u>February 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
@@ -25,38 +26,21 @@ Some of my recent research includes: designing training data extraction attacks 
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. 
 
-
 <!--
 <u>Summer 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}.
 <u>Fall 21</u>: Delivered three guest lectures on Network Flows for Algorithms undergraduate course at NYU. \\
 <u>July 21</u>: Served as a Publication Chair at [ACM WiSec 2021](https://sites.nyuad.nyu.edu/wisec21/organization/){:target="_blank"}.
-
 <u>June 21</u>: Presented our work on Longitudinal Privacy at PETS Symposium. Video of the talk can be found [here](https://www.youtube.com/watch?v=qPLFUaZKSJM){:target="_blank"}. 
--->
-<!--
 <u>Spring 22</u>: Taught recitation sections of Introduction to Computer Science undergraduate course. \\
-
 <u>January 23</u>: Served as an external reviewer of proceedings on Privacy Enhancing Technologies (PETS) 2023.\\
-\\
 <u>May 21</u>: Delivered a talk on our work about Longitudinal Privacy on Facebook at [USEC 2021](http://www.usablesecurity.net/USEC/usec21/){:target="_blank"}.
- \\
 <u>Fall 20</u>: Passed my Depth Qualifying Exam with committee members Joseph Bonneau, Rachel Greenstadt and Christina Pöpper. 
 -->
 
 ##### Select Publications
 * * * 
 
-<!--
-###### In Review/ Preparation
-
-* [Trustworthiness of LLMs in Fact-Checking: Stability & Factuality of GPT Models]().\\
-*Shujaat Mirza*, Bruno Gomes Coelho, Yuyuan Cui, Christina Poepper, and Damon McCoy. In Submission, 2023.
-
-
-###### Peer Reviewed
--->
-
-* [How Fair are Medical Imaging Foundation Models?](){:target="_blank"}\\
+* [How Fair are Medical Imaging Foundation Models?]()\\
  Osama Khan, Muneeb Afzal, *Shujaat Mirza*, Yi Fang. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
 
 * [Trustworthiness of LLMs in Fact-Checking: Stability & Factuality of GPT Models]().\\
@@ -68,7 +52,7 @@ Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Securi
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
 *Shujaat Mirza*, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
 
-* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation](){:target="_blank"}.\\
+* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation]().\\
 Muneeb Afzal, Osama Khan, *Shujaat Mirza*. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
 
 * [Extending Browser Extension Fingerprinting to Mobile Devices](papers/wpes23.pdf){:target="_blank"}.\\
@@ -93,126 +77,3 @@ I got a B.S. in Computer Science from NYU Abu Dhabi, where my capstone project w
 
 
 <sub>Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.</sub>
-
-
-<!--
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
- -->
