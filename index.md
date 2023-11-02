@@ -12,7 +12,10 @@ Some of my recent research includes: designing training data extraction attacks 
 
 ##### Recent News
 * * * 
+<u>October 23</u>: Exciting news! Our works on enhancing health equity of Medical Imaging Foundation Models and Kidney Tumor Segmentation have been selected for presentation at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference. See you in New Orleans!\\
+
 <u>September 23</u>: Our work on mobile browser extension fingerprinting will be presented at [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. See you in Copenhagen!\\
+
 <u>August 23</u>: Presented our research on code generation large langauge models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.\\
 <u>February 23</u>: Invited to speak at [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series. Thanks for having me! \\
 <u>February 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
@@ -20,7 +23,7 @@ Some of my recent research includes: designing training data extraction attacks 
 <u>January 23</u>: Served in the Program Committee for [SecWeb](https://secweb.work/2023.html){:target="_blank"} Workshop.\\
 <u>November 22</u>: Taught a guest lecture for Cyberwarfare course offered by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. \\
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
-<u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. \\
+<u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. 
 
 
 <!--
@@ -53,20 +56,20 @@ Some of my recent research includes: designing training data extraction attacks 
 ###### Peer Reviewed
 -->
 
-* [How Fair are Medical Imaging Foundation Models?](){:target="_blank"}.\\
-Muhammad Osama Khan, Muhammad Muneeb Afzal, *Shujaat Mirza*, Yi Fang. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
-
-* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation](){:target="_blank"}.\\
-Muhammad Muneeb Afzal, Muhammad Osama Khan, *Shujaat Mirza*. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
-
-* [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}.\\
-Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Security Symposium, Anaheim, US, 2023.
+* [How Fair are Medical Imaging Foundation Models?](){:target="_blank"}\\
+ Osama Khan, Muneeb Afzal, *Shujaat Mirza*, Yi Fang. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
 
 * [Trustworthiness of LLMs in Fact-Checking: Stability & Factuality of GPT Models]().\\
 *Shujaat Mirza*, Bruno Gomes Coelho, Yuyuan Cui, Christina Poepper, and Damon McCoy. In Submission, 2023.
 
+* [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}.\\
+Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Security Symposium, Anaheim, US, 2023.
+
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
 *Shujaat Mirza*, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
+
+* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation](){:target="_blank"}.\\
+Muneeb Afzal, Osama Khan, *Shujaat Mirza*. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
 
 * [Extending Browser Extension Fingerprinting to Mobile Devices](papers/wpes23.pdf){:target="_blank"}.\\
 Brian Hyeongseok Kim, *Shujaat Mirza*, and Christina Pöpper. In the 22nd Workshop on Privacy in the Electronic Society (WPES; co-located with ACM CCS), Copenhagen, Denmark, 2023.
@@ -74,12 +77,13 @@ Brian Hyeongseok Kim, *Shujaat Mirza*, and Christina Pöpper. In the 22nd Worksh
 * [Managing Longitudinal Privacy of Publicly Shared Personal Online Data](https://petsymposium.org/popets/2021/popets-2021-0013.pdf){:target="_blank"}.\\
 *Shujaat Mirza*<sup>*</sup>, Theodor Schnitzler<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
+<!--
 * [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\
 *Shujaat Mirza*, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
 * [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\
 Ghous Amjad, *Shujaat Mirza*, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, US, 2018.
-
+-->
 > <sup> * </sup>: indicates equal contribution
 
 ##### Previously
