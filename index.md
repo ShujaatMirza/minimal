@@ -7,11 +7,10 @@ layout: default
 <!--
 In my research, I focus on better understanding and developing techniques to realize AI safety and privacy enhancing technologies.
 -->
-My research endeavors center around ensuring the safety, privacy, and fairness of AI systems. I am honored to be a recipient of Global PhD Fellowship. I will soon defend my PhD under the supervision of [Christina Pöpper](http://poepper.net){:target="_blank”}.
-
+My research concentrates on enhancing the safety, privacy, and fairness of AI systems. Some of my recent projects involve exposing privacy vulnerabilities in code generation language models, identifying biases in medical imaging foundation models, developing a cybersecurity-inspired framework for disinformation, and auditing the reliability of LLMs for fact-checking. I am honored to be a recipient of the Global PhD Fellowship, working alongside [Prof. Christina Pöpper](http://poepper.net){:target="_blank”} in advancing my research.
+<!--
 Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, evaluating fairness of foundation models for medical imaging, and assessing reliability of large language models for fact checking tasks.
 
-<!--
 My work employs a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
 -->
 
@@ -27,6 +26,8 @@ My work employs a mix of _quantitative & qualitative analyses_, _machine learni
 **October 2023**: 🩺 Thrilled to announce that our projects on enhancing health equity in Medical Imaging Foundation Models and Kidney Tumor Segmentation were selected for presentation at the [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference in New Orleans.
 
 **August 2023**: 💻 Presented our research on code generation with large language models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.
+
+**[June 2023]**: 🌍 Engaged with the UN Information Integrity team to evolve existing frameworks, targeting hate speech risks and enhancing online safety.
 
 **February 2023**: 🗣 Honored to be an invited speaker at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, where I discussed our work on threat modeling of disinformation campaigns. Thank you, MSR, for this wonderful opportunity!
 
@@ -64,14 +65,11 @@ My work employs a mix of _quantitative & qualitative analyses_, _machine learni
 * [How Fair are Medical Imaging Foundation Models?](papers/ml4h_foundation_models.pdf){:target="_blank"}.\\
  Osama Khan, Muneeb Afzal, *Shujaat Mirza*, Yi Fang. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
 
-* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation](papers/ml4h_kidneytumor_segmentation.pdf){:target="_blank"}.\\
-Muneeb Afzal, Osama Khan, *Shujaat Mirza*. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
-
 * [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}.\\
 Liang Niu, *Shujaat Mirza*, Zayd Maradni and Christina Pöpper. In USENIX Security Symposium, Anaheim, US, 2023.
 
 * [Trustworthiness of LLMs in Fact-Checking: Stability & Factuality of GPT Models]().\\
-*Shujaat Mirza*, Bruno Gomes Coelho, Yuyuan Cui, Christina Poepper, and Damon McCoy. In Submission, 2023.
+*Shujaat Mirza*, Bruno Gomes Coelho, Yuyuan Cui, Christina Poepper, and Damon McCoy. In Submission, 2024.
 
 * [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}.\\
 *Shujaat Mirza*, Labeeba Begum, Liang Niu, Sara Pardo, Azza Abouzied, Paolo Papotti and Christina Pöpper. In Network and Distributed System Security (NDSS), San Diego, US, 2023. 
@@ -83,18 +81,24 @@ Brian Hyeongseok Kim, *Shujaat Mirza*, and Christina Pöpper. In the 22nd Worksh
 *Shujaat Mirza*<sup>*</sup>, Theodor Schnitzler<sup>*</sup>, Markus Dürmuth, and Christina Pöpper. In Proceedings on Privacy Enhancing Technologies (PETS), Virtual Event, Canada, 2021. 
 
 <!--
+
+* [Towards Equitable Kidney Tumor Segmentation: Bias Evaluation and Mitigation](papers/ml4h_kidneytumor_segmentation.pdf){:target="_blank"}.\\
+Muneeb Afzal, Osama Khan, *Shujaat Mirza*. In Machine Learning for Health (ML4H), New Orleans, US, 2023.
+
 * [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\
 *Shujaat Mirza*, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
 * [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\
 Ghous Amjad, *Shujaat Mirza*, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, US, 2018.
 -->
-> <sup> * </sup>: indicates equal contribution
+> <sup> * </sup>: indicates equal contribution. Detailed list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=6mJvLd4AAAAJ&hl=en){:target="_blank"}.
+
 
 ##### Previously
 * * * 
 
 I got a B.S. in Computer Science from NYU Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
 
-
+<!--
 <sub>Theme by [orderedlist](https://github.com/orderedlist){:target="_blank"}.</sub>
+-->
