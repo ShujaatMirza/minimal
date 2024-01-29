@@ -8,6 +8,7 @@ layout: default
 In my research, I focus on better understanding and developing techniques to realize AI safety and privacy enhancing technologies.
 -->
 My research concentrates on enhancing the safety, privacy, and fairness of AI systems. Some of my recent projects involve exposing privacy vulnerabilities in code generation language models, identifying biases in medical imaging foundation models, developing a cybersecurity-inspired framework for disinformation, and auditing the reliability of LLMs for fact-checking. I am honored to be a recipient of the Global PhD Fellowship, working alongside [Prof. Christina Pöpper](http://poepper.net){:target="_blank”} in advancing my research.
+
 <!--
 Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, evaluating fairness of foundation models for medical imaging, and assessing reliability of large language models for fact checking tasks.
 
@@ -23,11 +24,9 @@ My work employs a mix of _quantitative & qualitative analyses_, _machine learni
 
 **November 2023**: 🌐 Attended the ACM CCS in Copenhagen; our project on mobile browser extension fingerprinting was presented at the [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. 
 
-**October 2023**: 🩺 Thrilled to announce that our projects on enhancing health equity in Medical Imaging Foundation Models and Kidney Tumor Segmentation were selected for presentation at the [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference in New Orleans.
-
 **August 2023**: 💻 Presented our research on code generation with large language models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.
 
-**[June 2023]**: 🌍 Engaged with the UN Information Integrity team to evolve existing frameworks, targeting hate speech risks and enhancing online safety.
+**June 2023**: 🌍 Engaged with the UN Information Integrity team to evolve existing frameworks, targeting hate speech risks and enhancing online safety.
 
 **February 2023**: 🗣 Honored to be an invited speaker at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, where I discussed our work on threat modeling of disinformation campaigns. Thank you, MSR, for this wonderful opportunity!
 
@@ -37,6 +36,8 @@ My work employs a mix of _quantitative & qualitative analyses_, _machine learni
 
 
 <!--
+**October 2023**: 🩺 Thrilled to announce that our projects on enhancing health equity in Medical Imaging Foundation Models and Kidney Tumor Segmentation were selected for presentation at the [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference in New Orleans.
+
 <u>November 23</u>: Attended ACM CCS in Copenhagen where our work on mobile browser extension fingerprinting was presented at [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}.\\
 <u>October 23</u>: Our works on enhancing health equity of Medical Imaging Foundation Models and Kidney Tumor Segmentation have been selected for presentation at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference. See you in New Orleans!\\
 <u>August 23</u>: Presented our research on code generation large langauge models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.\\
@@ -91,7 +92,8 @@ Muneeb Afzal, Osama Khan, *Shujaat Mirza*. In Machine Learning for Health (ML4H)
 * [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\
 Ghous Amjad, *Shujaat Mirza*, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, US, 2018.
 -->
-> <sup> * </sup>: indicates equal contribution. Detailed list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=6mJvLd4AAAAJ&hl=en){:target="_blank"}.
+> <sup> * </sup>: indicates equal contribution. 
+Detailed list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=6mJvLd4AAAAJ&hl=en){:target="_blank"}.
 
 
 ##### Previously
