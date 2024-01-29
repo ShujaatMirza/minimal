@@ -18,7 +18,7 @@ My work employs a mix of _quantitative & qualitative analyses_, _machine learni
 ##### Recent News
 * * * 
 
-**January 2024**: 📚 Honored to take on the role of Publication Chair for the 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. Looking forward to contributing to this year's proceedings volumes. 
+**January 2024**: 📚 Happy to take on the role of Publication Chair for the 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. 
 
 **December 2023**: 🏆 Exciting news! Our work on the fairness of medical imaging foundation models has been honored with the *Health Equity & Global Health Best Proceedings Paper Award* at the [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS. Congratulations to our dedicated team!
 
