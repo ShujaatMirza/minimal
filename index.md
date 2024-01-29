@@ -17,8 +17,27 @@ My work employs a mix of _quantitative & qualitative analyses_, _machine learni
 
 ##### Recent News
 * * * 
-<u>October 23</u>: Exciting news! Our works on enhancing health equity of Medical Imaging Foundation Models and Kidney Tumor Segmentation have been selected for presentation at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference. See you in New Orleans!\\
-<u>September 23</u>: Our work on mobile browser extension fingerprinting will be presented at [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"} in Copenhagen!\\
+
+**January 2024**: 📚 Honored to take on the role of Publication Chair for the 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. Looking forward to contributing to this year's proceedings volumes. 
+
+**December 2023**: 🏆 Exciting news! Our work on the fairness of medical imaging foundation models has been honored with the *Health Equity & Global Health Best Proceedings Paper Award* at the [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS. Congratulations to our dedicated team!
+
+**November 2023**: 🌐 Attended the ACM CCS in Copenhagen; our project on mobile browser extension fingerprinting was presented at the [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. 
+
+**October 2023**: 🩺 Thrilled to announce that our projects on enhancing health equity in Medical Imaging Foundation Models and Kidney Tumor Segmentation were selected for presentation at the [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference in New Orleans.
+
+**August 2023**: 💻 Presented our research on code generation with large language models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.
+
+**February 2023**: 🗣 Honored to be an invited speaker at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, where I discussed our work on threat modeling of disinformation campaigns. Thank you, MSR, for this wonderful opportunity!
+
+**October 2022**: 🎤 Spoke at the MENA Cybersecurity Seminar about emerging threats in disinformation operations and the importance of collaboration among various stakeholders.
+
+**Summer 2022**: 🎶 Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist. Collaborated with the Content Platform Research and Tech Research teams on exciting projects involving AI and content moderation.
+
+
+<!--
+<u>November 23</u>: Attended ACM CCS in Copenhagen where our work on mobile browser extension fingerprinting was presented at [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}.\\
+<u>October 23</u>: Our works on enhancing health equity of Medical Imaging Foundation Models and Kidney Tumor Segmentation have been selected for presentation at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference. See you in New Orleans!\\
 <u>August 23</u>: Presented our research on code generation large langauge models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.\\
 <u>February 23</u>: Invited to speak at [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series. Thanks for having me! \\
 <u>January 23</u>: Happy to be the Publication Chair for 22nd Conference on Applied Cryptography & Network Security [(ACNS)](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. \\
@@ -26,7 +45,7 @@ My work employs a mix of _quantitative & qualitative analyses_, _machine learni
 <u>October 22</u>: Spoke at the MENA Cybersecurity Seminar. \\
 <u>Summer 22</u>: Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist to work with Content Platform Research and Tech Research teams. 
 
-<!--
+
 <u>February 23</u>: Invited to give a lightning talk at [SecHOPE workshop](https://sechope23.github.io){:target="_blank"}.\\
 <u>November 22</u>: Taught a guest lecture for Cyberwarfare course offered by Professor [Michail Maniatakos](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/michail-maniatakos.html){:target="_blank"}. \\
 <u>Summer 22</u>: Our paper on threat modeling of disinfomation campaigns has been accepted at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/){:target="_blank"}.
