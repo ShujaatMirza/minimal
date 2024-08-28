@@ -98,8 +98,7 @@ Muneeb Afzal, Osama Khan, *Shujaat Mirza*. In Machine Learning for Health (ML4H)
 * [My Past Dictates my Present: Relevance, Exposure, and Influence of Longitudinal Data on Facebook](https://www.ndss-symposium.org/ndss-paper/auto-draft-181/){:target="_blank"}.\\
 *Shujaat Mirza*, and Christina Pöpper. In Workshop on Usable Security and Privacy (USEC), Virtual Event, New Zealand, 2021.
 
-* [Forgetting with Puzzles: Using Cryptographic Puzzles to Support Digital Forgetting](https://dl.acm.org/doi/10.1145/3176258.3176327){:target="_blank"}.\\
-Ghous Amjad, *Shujaat Mirza*, and Christina Pöpper.  In ACM Conference on Data and Application Security and Privacy (CODASPY), Tempe AZ, US, 2018.
+
 -->
 > <sup> * </sup>: indicates equal contribution. 
 Detailed list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=6mJvLd4AAAAJ&hl=en){:target="_blank"}.
