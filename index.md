@@ -20,13 +20,13 @@ I am currently on the job market, seeking opportunities to apply my expertise in
 
 *Jul '24*: Received the runner-up award for the *Andreas Pfitzmann Best Paper* at [PETS](https://petsymposium.org/2024/student-paper-award.php){:target="_blank"} in Bristol.
 
-*May '24*: Served as Color Guard for Commencement Exercises.
+*May '24*: Served as Color Guard for NYU Commencement Exercises.
 
-*Mar '24*: Appointed Publication Chair for [ACNS 2024](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}.
+*Mar '24*: Appointed Publication Chair for [ACNS 2024](https://wp.nyu.edu/acns2024/organization/){:target="_blank"} conference.
 
-*Dec '23*: Our work was recognized with the Best Paper Award at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS in New Orleans. 
+*Dec '23*: Our work was recognized with the Best Paper Award at [Machine Learning for Health](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS. 
 
-*Aug '23*: Presented our research on privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"} in Anaheim. 
+*Aug '23*: Presented our research on sensitive privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}. 
 
 *Jun '23*: Engaged with the UN Information Integrity team to address online hate speech risks.
 
