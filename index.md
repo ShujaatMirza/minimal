@@ -16,21 +16,21 @@ I am currently on the job market, seeking opportunities to apply my expertise in
 ###### Recent News
 * * * 
 
-<u>Aug '24</u>: Defended my PhD dissertation, *"Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness."* Grateful for the guidance of my exceptional thesis committee.
+*Aug '24*: Defended my PhD dissertation, *"Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness."* Grateful for the guidance of my exceptional thesis committee.
 
-<u>Jul '24</u>: Received the runner-up award for the *Andreas Pfitzmann Best Paper* at [PETS](https://petsymposium.org/2024/student-paper-award.php){:target="_blank"} in Bristol.
+*Jul '24*: Received the runner-up award for the *Andreas Pfitzmann Best Paper* at [PETS](https://petsymposium.org/2024/student-paper-award.php){:target="_blank"} in Bristol.
 
-<u>May '24</u>: Served as Color Guard for the Class of 2024 Commencement Exercises.
+*May '24*: Served as Color Guard for the Class of 2024 Commencement Exercises.
 
-<u>Mar '24</u>: Appointed Publication Chair for [Applied Cryptography & Network Security](https://wp.nyu.edu/acns2024/organization/){:target="_blank"} conference.
+*Mar '24*: Appointed Publication Chair for [Applied Cryptography & Network Security](https://wp.nyu.edu/acns2024/organization/){:target="_blank"} conference.
 
-<u>Dec '23</u>: Our work on health equity in medical imaging was recognized with the Best Paper Award at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS in New Orleans. 
+*Dec '23*: Our work on health equity in medical imaging was recognized with the Best Paper Award at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS in New Orleans. 
 
-<u>Aug '23</u>: Presented our research on privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"} in Anaheim. 
+*Aug '23*: Presented our research on privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"} in Anaheim. 
 
-<u>Jun '23</u>: Engaged with the UN Information Integrity team to address online hate speech risks.
+*Jun '23*: Engaged with the UN Information Integrity team to address online hate speech risks.
 
-<u>Feb '23</u>: Invited to speak at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, where I presented our research on threat modeling of disinformation campaigns.
+*Feb '23*: Invited to speak at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, where I presented our research on threat modeling of disinformation campaigns.
 
 <!--
 <u>October 2022</u>: Spoke at the MENA Cybersecurity Seminar about emerging threats in information warfare. 
@@ -58,18 +58,18 @@ I am currently on the job market, seeking opportunities to apply my expertise in
 * * * 
 
 [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}\\
-USENIX Security Symposium, Anaheim, US, 2023.\\
+USENIX Security Symposium, Anaheim, US, 2023.
 
 [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"} \\
-Network and Distributed System Security, San Diego, US, 2023.\\
+Network and Distributed System Security, San Diego, US, 2023.
 
-* [How Fair are Medical Imaging Foundation Models?](papers/ml4h_foundation_models.pdf){:target="_blank"}\\
+[How Fair are Medical Imaging Foundation Models?](papers/ml4h_foundation_models.pdf){:target="_blank"}\\
 Machine Learning for Health (ML4H), New Orleans, US, 2023.
 
-* [Unraveling a Decade of Privacy Discourse around the World](https://petsymposium.org/popets/2024/popets-2024-0109.pdf){:target="_blank"}.\\
+[Unraveling a Decade of Privacy Discourse around the World](https://petsymposium.org/popets/2024/popets-2024-0109.pdf){:target="_blank"}.\\
 Privacy Enhancing Technologies (PETS), Bristol, UK, 2024
 
-* [Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839){:target="_blank"}\\
+[Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839){:target="_blank"}\\
 In Submission, 2024
 
 > Detailed list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=6mJvLd4AAAAJ&hl=en){:target="_blank"}.
