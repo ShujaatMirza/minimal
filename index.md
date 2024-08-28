@@ -2,39 +2,39 @@
 layout: default
 ---
 
-##### About Me
+###### About Me
 * * *
 
 I am a researcher dedicated to the responsible development of AI systems that prioritize privacy, safety, fairness, and factual integrity. My work focuses on identifying and mitigating risks in machine learning applications, particularly in critical domains like healthcare and cybersecurity.
 
-I recently earned my PhD at New York University, where I was honored to be a Global PhD Fellowship recipient, working closely with my advisor [Dr. Christina Pöpper](http://poepper.net){:target="_blank"}. My research has been recognized with various honors, including a *Health Equity & Global Health Best Paper Award* at *ML4H 2023* and a runner-up for the *Andreas Pfitzmann Best Paper Award* at *PETS 2024*. Previously, I gained valuable industry experience at **Spotify Tech Research** and the **Center for Cyber Security**, where I incorporated privacy-enhancing technologies within existing digital platforms.
+I recently earned my PhD at New York University, where I was honored to be a Global PhD Fellowship recipient, working closely with my advisor [Dr. Christina Pöpper](http://poepper.net){:target="_blank"}. My research has been recognized with various honors, including a *Health Equity & Global Health Best Paper Award* at *ML4H 2023* and a runner-up for the *Andreas Pfitzmann Best Paper Award* at *PETS 2024*. Previously, I gained valuable industry experience at [Spotify Tech Research](https://research.atspotify.com){:target="_blank"} and the [Center for Cyber Security](https://cyber.nyu.edu){:target="_blank"}, where I incorporated privacy-enhancing technologies within existing digital platforms.
 
 I am currently on the job market, seeking opportunities to apply my expertise in organizations that share my vision for safe AI. If you are interested in collaborating, please feel free to reach out.
 
 *Prospective PhD applicants and current students, especially those from underrepresented backgrounds, are welcome to reach out with any questions about the application process, the PhD experience, or research in general.*
 
-##### Recent News
+#### Recent News
 * * * 
 
-- **August 2024**: Defended my PhD dissertation, *"Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness."* Grateful for the guidance of my exceptional thesis committee.
+**August 2024**: Defended my PhD dissertation, *"Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness."* Grateful for the guidance of my exceptional thesis committee.
 
-- **July 2024**: Received the runner-up award for the *Andreas Pfitzmann Best Paper* at [PETS](https://petsymposium.org/2024/student-paper-award.php){:target="_blank"} in Bristol.
+**July 2024**: Received the runner-up award for the *Andreas Pfitzmann Best Paper* at [PETS](https://petsymposium.org/2024/student-paper-award.php){:target="_blank"} in Bristol.
 
-- **May 2024**: Served as Color Guard for the Class of 2024 Commencement Exercises.
+**May 2024**: Served as Color Guard for the Class of 2024 Commencement Exercises.
 
-- **March 2024**: Appointed Publication Chair for [Applied Cryptography & Network Security](https://wp.nyu.edu/acns2024/organization/){:target="_blank"} conference.
+**March 2024**: Appointed Publication Chair for [Applied Cryptography & Network Security](https://wp.nyu.edu/acns2024/organization/){:target="_blank"} conference.
 
-- **December 2023**: Our work on health equity in medical imaging was recognized with the Best Paper Award at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS in New Orleans. 
+**December 2023**: Our work on health equity in medical imaging was recognized with the Best Paper Award at [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS in New Orleans. 
 
-- **August 2023**: Presented our research on privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"} in Anaheim. 
+**August 2023**: Presented our research on privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"} in Anaheim. 
 
-- **June 2023**: Engaged with the UN Information Integrity team to address online hate speech risks.
+**June 2023**: Engaged with the UN Information Integrity team to address online hate speech risks.
 
-- **February 2023**: Invited to speak at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, where I presented our research on threat modeling of disinformation campaigns.
+**February 2023**: Invited to speak at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, where I presented our research on threat modeling of disinformation campaigns.
 
-- **October 2022**: Spoke at the MENA Cybersecurity Seminar about emerging threats in information warfare. 
+**October 2022**: Spoke at the MENA Cybersecurity Seminar about emerging threats in information warfare. 
 
-- **Summer 2022**: Joined [Spotify Tech Research](https://research.atspotify.com/){:target="_blank"} as a Summer ML Research Scientist, working on responsible AI for content moderation.
+**Summer 2022**: Joined [Spotify Tech Research](https://research.atspotify.com/){:target="_blank"} as a Summer ML Research Scientist, working on responsible AI for content moderation.
 
 
 <!--
@@ -56,8 +56,9 @@ I am currently on the job market, seeking opportunities to apply my expertise in
 ##### Select Publications
 * * * 
 
-- [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}
-  - USENIX Security Symposium, Anaheim, US, 2023.
+**CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot**  
+USENIX Security Symposium, Anaheim, US, 2023. [PDF](papers/codexleaks.pdf){:target="_blank"}
+
 
 - [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}
   - Network and Distributed System Security (NDSS), San Diego, US, 2023. 
