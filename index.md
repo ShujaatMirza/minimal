@@ -26,13 +26,17 @@ I am currently on the job market, seeking opportunities to apply my expertise in
 
 *Dec '23*: Our work was recognized with the Best Paper Award at [Machine Learning for Health](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS. 
 
-*Aug '23*: Presented our research on sensitive privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}. 
-
 *Jun '23*: Engaged with the UN Information Integrity team to address online hate speech risks.
+
+*May '23*: Served in the Program Committee for [SecWeb 2023](https://secweb.work/2023.html){:target="_blank"}.
 
 *Feb '23*: Invited to speak at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium about my research on threat modeling of disinformation campaigns.
 
+
+
 <!--
+*Aug '23*: Presented our research on sensitive privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}. 
+
 <u>October 2022</u>: Spoke at the MENA Cybersecurity Seminar about emerging threats in information warfare. 
 
 <u>Summer 2022</u>: Joined [Spotify Tech Research](https://research.atspotify.com/){:target="_blank"} as a Summer ML Research Scientist, working on responsible AI for content moderation.
