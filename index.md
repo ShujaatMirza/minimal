@@ -9,7 +9,7 @@ I am a researcher passionate about developing responsible AI systems that priori
 
 I recently earned my PhD at New York University as a Global PhD Fellowship recipient, working with [Dr. Christina Pöpper](http://poepper.net){:target="_blank"}. My research has been recognized with various honors, including a *Health Equity & Global Health Best Paper Award* at *ML4H 2023* and a runner-up for the *Andreas Pfitzmann Best Paper Award* at *PETS 2024*. Previously, I gained valuable experience with privacy-enhancing technologies at [Spotify Tech Research](https://research.atspotify.com){:target="_blank"} and the [Center for Cyber Security](https://cyber.nyu.edu){:target="_blank"}.
 
-I'm always open to collaboration and discussions. So don't hesitate to reach out if you would like to collaborate with me, or just talk about life.
+I'm always open to collaboration and discussions. So don't hesitate to reach out if you would like to collaborate, or just talk about life.
 
 Prospective PhD applicants, especially those from underrepresented backgrounds, are more than welcome to email me about questions related to the application process or PhD experience. :)
 
