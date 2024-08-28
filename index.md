@@ -13,7 +13,7 @@ I am currently on the job market, seeking opportunities to apply my expertise in
 
 *Prospective PhD applicants and current students, especially those from underrepresented backgrounds, are welcome to reach out with any questions about the application process, the PhD experience, or research in general.*
 
-#### Recent News
+###### Recent News
 * * * 
 
 **August 2024**: Defended my PhD dissertation, *"Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness."* Grateful for the guidance of my exceptional thesis committee.
@@ -53,26 +53,27 @@ I am currently on the job market, seeking opportunities to apply my expertise in
 <u>Fall 20</u>: Passed my Depth Qualifying Exam with committee members Joseph Bonneau, Rachel Greenstadt and Christina Pöpper. 
 -->
 
-##### Select Publications
+###### Select Publications
 * * * 
 
-**CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot**  
-USENIX Security Symposium, Anaheim, US, 2023. [PDF](papers/codexleaks.pdf){:target="_blank"}
+* [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}\\
+USENIX Security Symposium, Anaheim, US, 2023.
 
+* [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"} \\
+Network and Distributed System Security (NDSS), San Diego, US, 2023. 
 
-- [Tactics, Threats & Targets: Modeling Disinformation and its Mitigation](papers/disinfo_threat_ndss23.pdf){:target="_blank"}
-  - Network and Distributed System Security (NDSS), San Diego, US, 2023. 
+* [How Fair are Medical Imaging Foundation Models?](papers/ml4h_foundation_models.pdf){:target="_blank"}\\
+Machine Learning for Health (ML4H), New Orleans, US, 2023.
 
-- [How Fair are Medical Imaging Foundation Models?](papers/ml4h_foundation_models.pdf){:target="_blank"}
-  - Machine Learning for Health (ML4H), New Orleans, US, 2023.
+* [Unraveling a Decade of Privacy Discourse around the World](https://petsymposium.org/popets/2024/popets-2024-0109.pdf){:target="_blank"}.\\
+Proceedings on Privacy Enhancing Technologies (PETS), Bristol, UK, 2024
 
-- [Unraveling a Decade of Privacy Discourse around the World](https://petsymposium.org/popets/2024/popets-2024-0109.pdf){:target="_blank"}.\\
-  - Proceedings on Privacy Enhancing Technologies (PETS), Bristol, UK, 2024
+*[Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839){:target="_blank"}\\
+In Submission, 2024
 
-- [Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839){:target="_blank"}
-  - In Submission, 2024
+> Detailed list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=6mJvLd4AAAAJ&hl=en){:target="_blank"}.
 
-##### Previously
+###### Previously
 * * * 
 
 I got a B.S. in Computer Science from NYU Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
