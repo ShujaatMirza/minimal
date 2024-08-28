@@ -5,13 +5,14 @@ layout: default
 ###### About Me
 * * *
 
-I am a researcher dedicated to the responsible development of AI systems that prioritize privacy, safety, fairness, and factual integrity. My work focuses on identifying and mitigating risks in machine learning applications, particularly in critical domains like healthcare and cybersecurity.
+I am a researcher passionate about developing responsible AI systems that prioritize privacy, safety, fairness, and factual integrity. My work centers on identifying and mitigating risks in machine learning applications, particularly in critical domains like cybersecurity and healthcare.
 
-I recently earned my PhD at New York University, where I was honored to be a Global PhD Fellowship recipient, working closely with my advisor [Dr. Christina Pöpper](http://poepper.net){:target="_blank"}. My research has been recognized with various honors, including a *Health Equity & Global Health Best Paper Award* at *ML4H 2023* and a runner-up for the *Andreas Pfitzmann Best Paper Award* at *PETS 2024*. Previously, I gained valuable industry experience at [Spotify Tech Research](https://research.atspotify.com){:target="_blank"} and the [Center for Cyber Security](https://cyber.nyu.edu){:target="_blank"}, where I incorporated privacy-enhancing technologies within existing digital platforms.
+I recently earned my PhD at New York University as a Global PhD Fellowship recipient, working with [Dr. Christina Pöpper](http://poepper.net){:target="_blank"}. My research has been recognized with various honors, including a *Health Equity & Global Health Best Paper Award* at *ML4H 2023* and a runner-up for the *Andreas Pfitzmann Best Paper Award* at *PETS 2024*. Previously, I gained valuable experience with privacy-enhancing technologies at [Spotify Tech Research](https://research.atspotify.com){:target="_blank"} and the [Center for Cyber Security](https://cyber.nyu.edu){:target="_blank"}.
 
-I am currently on the job market, seeking opportunities to apply my expertise in organizations that share my vision for safe AI. If you are interested in collaborating, please feel free to reach out.
+I am currently on the job market, seeking opportunities to apply my expertise in organizations that share my vision for safe AI. If you'd like to discuss potential collaborations, pI'd be happy to connect.
 
-*Prospective PhD applicants and current students, especially those from underrepresented backgrounds, are welcome to reach out with any questions about the application process, the PhD experience, or research in general.*
+*Prospective PhD applicants and students, especially those from underrepresented backgrounds, are encouraged to contact me about the application process, the PhD experience, or research.*
+
 
 ###### Recent News
 * * * 
