@@ -4,35 +4,44 @@ layout: default
 
 ##### About Me
 * * *
-<!--
-In my research, I focus on better understanding and developing techniques to realize AI safety and privacy enhancing technologies.
--->
-My research concentrates on enhancing the safety, privacy, and fairness of AI systems. Some of my recent projects involve exposing privacy vulnerabilities in code generation language models, identifying biases in medical imaging foundation models, developing a cybersecurity-inspired framework for disinformation, and auditing the reliability of LLMs for fact-checking. I am honored to be a recipient of the Global PhD Fellowship, working alongside [Prof. Christina Pöpper](http://poepper.net){:target="_blank”} in advancing my research.
 
-<!--
-Some of my recent research includes: designing training data extraction attacks to generate privacy leakage from code generation language models, evaluating fairness of foundation models for medical imaging, and assessing reliability of large language models for fact checking tasks.
+My research is centered on the responsible development of machine learning systems, with a strong emphasis on safeguarding privacy, enhancing safety, ensuring fairness and maintaining factual integrity. Some of my recent work includes uncovering privacy risks in code generation models, investigating GPT models for factuality, developing a cybersecurity framework for disinformation threats, and mitigating biases in machine learning for high-risk applications like healthcare.
 
-My work employs a mix of _quantitative & qualitative analyses_, _machine learning_, and _applied cryptography_.
--->
+I recently completed my PhD at New York University, defending my dissertation titled *"Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness."* As a Global PhD Fellowship recipient, I was fortunate to work with [Dr. Christina Pöpper](http://poepper.net){:target="_blank”} and an exceptional thesis committee whose guidance has been invaluable. 
+
+I have been invited to share my research at prestigious forums such as *Microsoft Research* colloquium, the *MENA cybersecurity seminar*, and the *United Nations'* Department of Global Communications. My co-authors and I have received various research honors, including a *Health Equity & Global Health* best paper award at ML4H 2023, and runner-up for the *Andreas Pfitzmann Best Student Paper Award* at PETS 2024.
+
+Previously, I have been at *Spotify Tech Research* and the *Center for Cyber Security*, applying privacy-enhancing technologies within existing digital platforms. These experiences reinforced my commitment to responsible machine learning practices.
+
+I am currently on the job market, seeking opportunities to apply my expertise in organizations that share my vision for safe AI.
+
+*Prospective PhD applicants, especially those from underrepresented backgrounds, are encouraged to reach out with any questions about the PhD application process, the experience itself, or research in general.*
+
 
 ##### Recent News
 * * * 
 
-**January 2024**: 📚 Happy to take on the role of Publication Chair for the 22nd Conference on [Applied Cryptography & Network Security](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. 
+**August 2024**: 📚 Defended my PhD thesis titled “Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness”. Special thanks to my exceptional thesis committee: Rachel Greenstadt, Damon McCoy, Paolo Papotti, Joseph Bonneau, Thomas Wies and Christina Pöpper.
 
-**December 2023**: 🏆 Exciting news! Our work on the fairness of medical imaging foundation models has been honored with the *Health Equity & Global Health Best Proceedings Paper Award* at the [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS. Congratulations to our dedicated team!
+**July 2024**: 🏆 Presented our work on global privacy concerns at the 24th [Privacy Enhancing Technologies Symposium](https://petsymposium.org/2024/student-paper-award.php){:target="_blank"}in Bristol, UK. This paper was a runner-up for the Andreas Pfitzmann Best Student Paper Award. 
 
-**November 2023**: 🌐 Attended the ACM CCS in Copenhagen; our project on mobile browser extension fingerprinting was presented at the [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. 
+**May 2024**: 🎖️ Honored to serve as Color Guard for the Class of 2024 Commencement Exercises.
 
-**August 2023**: 💻 Presented our research on code generation with large language models (LLMs) at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.
+**January 2024**: 📚 Taking on the role of Publication Chair for the 22nd Conference on [Applied Cryptography & Network Security](https://wp.nyu.edu/acns2024/organization/){:target="_blank"}. 
+
+**December 2023**: 🏆 Our work on the fairness of medical imaging foundation models has been received the *Health Equity & Global Health Best Proceedings Paper Award* at the [Machine Learning for Health (ML4H)](https://ml4health.github.io/2023/){:target="_blank"} conference, co-located with NeurIPS.
+
+**November 2023**: 🌐 Attended ACM CCS in Copenhagen; our project on mobile browser extension fingerprinting was presented at the [WPES 2023](https://www.wpes2023.conf.kth.se/accepted.html){:target="_blank"}. 
+
+**August 2023**: 💻 Presented our research on privacy leakage from code generation LLMs at [Usenix Security 2023](https://www.usenix.org/conference/usenixsecurity23/technical-sessions){:target="_blank"}.
 
 **June 2023**: 🌍 Engaged with the UN Information Integrity team to evolve existing frameworks, targeting hate speech risks and enhancing online safety.
 
-**February 2023**: 🗣 Honored to be an invited speaker at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, where I discussed our work on threat modeling of disinformation campaigns. Thank you, MSR, for this wonderful opportunity!
+**February 2023**: 🗣 Invited speaker at the [Microsoft Research (MSR)](https://www.linkedin.com/feed/update/urn:li:activity:7034514423289364480/){:target="_blank"} Colloquium Series, discussing our work on threat modeling of disinformation campaigns.
 
-**October 2022**: 🎤 Spoke at the MENA Cybersecurity Seminar about emerging threats in disinformation operations and the importance of collaboration among various stakeholders.
+**October 2022**: 🎤 Spoke at the MENA Cybersecurity Seminar about emerging threats in disinformation operations and the importance of multi-stakeholder collaboration.
 
-**Summer 2022**: 🎶 Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist. Collaborated with the Content Platform Research and Tech Research teams on exciting projects involving AI and content moderation.
+**Summer 2022**: 🎶 Joined [Spotify](https://research.atspotify.com/){:target="_blank"} as a Summer Research Scientist. Collaborated with the Content Platform Research and Tech Research teams on responsible use of AI for content moderation.
 
 
 <!--
