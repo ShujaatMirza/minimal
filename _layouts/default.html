@@ -20,7 +20,16 @@
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
+  <style>
+    .profile-image {
+        width: 200px; /* Adjust size as needed */
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+    }
+  </style>
 
   </head>
   <body>
@@ -28,8 +37,12 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
-        {% if site.logo %}
+        <!--{% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}-->  
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" class="profile-image" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -49,7 +62,7 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %} -->
-        <p style="text-align:center;"> Doctoral Candidate<br> Computer Science, Courant Institute <br> New York University </p> 
+        <p style="text-align:center;"> PhD, Computer Science  <br> Courant Institute of Mathematical Sciences <br> New York University </p> 
         <div class="containers">   
               <div class="row text-center" id="contact-items">
                 <a style="padding-right:20px !important" style="padding-left:40px !important" href="mailto:shujaat.mirza@nyu.edu" target="_blank"><i class="fa fa-envelope-o fa-2x"></i></a>
