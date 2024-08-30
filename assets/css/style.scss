@@ -9930,6 +9930,39 @@ li.equal-margin {
   color: #fb866a;
 }
 
+
+.main-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 1rem;
+}
+
+.profile-image-container {
+  flex-shrink: 0;
+}
+
+.header-text {
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+  }
+  
+  .header-text {
+    text-align: center;
+  }
+}
+
 @media (max-width: 991.98px) {
   .resume-aside {
     border-left: 0;

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+#### About Me
 <hr>
 
 I am a researcher passionate about developing responsible AI systems that prioritize privacy, safety, fairness, and factual integrity. My work centers on identifying and mitigating risks in machine learning applications, particularly in critical domains like cybersecurity and healthcare.
@@ -13,7 +13,7 @@ I'm always open to collaboration and discussions. So don't hesitate to reach out
 
 Prospective PhD applicants, especially those from underrepresented backgrounds, are more than welcome to email me about questions related to the application process or PhD experience. :)
 
-## Recent News
+#### Recent News
 <hr>
 
 *Aug '24*: Defended my PhD dissertation, *"Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness."* Grateful for the guidance of my exceptional thesis committee.
@@ -58,7 +58,7 @@ Prospective PhD applicants, especially those from underrepresented backgrounds, 
 <u>Fall 20</u>: Passed my Depth Qualifying Exam with committee members Joseph Bonneau, Rachel Greenstadt and Christina Pöpper. 
 -->
 
-###### Select Publications
+#### Select Publications
 <hr>
 
 [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}\\
