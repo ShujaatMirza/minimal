@@ -2,8 +2,8 @@
 layout: default
 ---
 
-###### About Me
-* * *
+## About Me
+<hr>
 
 I am a researcher passionate about developing responsible AI systems that prioritize privacy, safety, fairness, and factual integrity. My work centers on identifying and mitigating risks in machine learning applications, particularly in critical domains like cybersecurity and healthcare.
 
@@ -13,8 +13,8 @@ I'm always open to collaboration and discussions. So don't hesitate to reach out
 
 Prospective PhD applicants, especially those from underrepresented backgrounds, are more than welcome to email me about questions related to the application process or PhD experience. :)
 
-###### Recent News
-* * * 
+## Recent News
+<hr>
 
 *Aug '24*: Defended my PhD dissertation, *"Towards Responsible AI: Safeguarding Privacy, Integrity, and Fairness."* Grateful for the guidance of my exceptional thesis committee.
 
@@ -59,7 +59,7 @@ Prospective PhD applicants, especially those from underrepresented backgrounds, 
 -->
 
 ###### Select Publications
-* * * 
+<hr>
 
 [CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot](papers/codexleaks.pdf){:target="_blank"}\\
 USENIX Security Symposium, Anaheim, US, 2023.
@@ -78,8 +78,8 @@ In Submission, 2024
 
 > Detailed list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=6mJvLd4AAAAJ&hl=en){:target="_blank"}.
 
-###### Previously
-* * * 
+#### Previously
+<hr>
 
 I got a B.S. in Computer Science from NYU Abu Dhabi, where my capstone project was on Reimagining Privacy in Online Social Networks. During high school, I represented the national team in [International Chemistry Olympiad](https://en.wikipedia.org/wiki/International_Chemistry_Olympiad){:target="_blank"}.
 
